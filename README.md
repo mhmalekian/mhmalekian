@@ -1,6 +1,7 @@
 ### Hi there 👋
 - Software Engineer, Full stack developer and IT expert.
-- 🔭 I’m currently working on LMS system and Some other php and laravel projects.
+- Programming Languages : PHP, C#, C, Python, JavaScript and Swift.
+- 🔭 I’m currently working on LMS system and Some other PHP and Laravel projects. 
 <!--
 **mhmalekian/mhmalekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
