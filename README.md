@@ -2,14 +2,14 @@
 - Software Engineer, Full stack developer and IT expert.
 
 ### Skils/Languages
-. PHP => great
-. Laravel => very good
-. Database And SQL => very good
-. Html , css , javascrip and jquery => good
-. C# => good
-. Python => not bad
-. Git => good
-. Unix => good
+- PHP => great
+- Laravel => very good
+- Database And SQL => very good
+- Html , css , javascrip and jquery => good
+- C# => good
+- Python => not bad
+- Git => good
+- Unix => good
 <!--
 **mhmalekian/mhmalekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
