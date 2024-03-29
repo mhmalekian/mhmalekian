@@ -1,6 +1,10 @@
 # 💫About Me :
-Hi there 👋
-Senior Full-Stack PHP Developer | Expertise in Laravel, MySQL, and Full-Stack Development
+Hi there 👋 :
+Experienced software engineer with a background in software development since 2009. Proficient in teaching software analysis and development, active member in software development teams, and skilled in programming. Specialize in backend development using Laravel framework since 2018, with additional experience in PHP programming since around 2014. Additionally, I am familiar with programming languages such as C#, Python, and C.
+
+Furthermore, I have hands-on experience in web development with CSS, JavaScript, and related libraries and frameworks such as Tailwind CSS, jQuery, and Vue.js. I also have a good understanding of MySQL. I am acquainted with Linux operating systems and services like Nginx and Apache. I am familiar with software development methodologies, particularly Agile methodologies such as Scrum, and I use Git for code management.
+
+This professional background enables me to contribute effectively to software development projects with my expertise in backend programming, web development, familiarity with various programming languages, and experience in using different tools and technologies.
 
 
 ## 🌐Socials
