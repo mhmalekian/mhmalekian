@@ -1,6 +1,6 @@
 # 💫About Me :
 Hi there 👋
-Software Engineer, Full stack developer and IT expert.
+Senior Full-Stack PHP Developer | Expertise in Laravel, MySQL, and Full-Stack Development
 
 
 ## 🌐Socials
